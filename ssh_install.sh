@@ -1,7 +1,6 @@
 #! /bin/bash
 clear
 cd /tmp
-echo "Dang cap nhat tai nguyen..."
 apt-get update  > /dev/null 2>&1
 echo ""
 echo -e "\033[33;4mDropBear Kuruluyor\033[0m"
