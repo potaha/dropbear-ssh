@@ -31,7 +31,7 @@ echo ""
 echo "############################################"
 echo ""
 ip_add=$(wget -qO- ifconfig.me)
-echo -e "\033[31;3m##  İp Adresiniz:\033[0m $ip_add:442"
+echo -e "\033[31;3m##  İp Adresiniz:\033[0m $ip_add:443"
 echo -e "\033[31;3m##  Username:\033[0m root"
 echo -e "\033[31;3m##  PassWord:\033[0m Putty Baglantı Sifreniz.."
 echo ""
