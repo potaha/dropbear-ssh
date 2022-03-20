@@ -1,6 +1,7 @@
 #! /bin/bash
 clear
 cd /tmp
+echo -e "\033[31;7mDropBear Kuruluyor\033[0m"
 apt-get update  > /dev/null 2>&1
 echo ""
 echo -e "\033[33;4mDropBear Kuruluyor\033[0m"
