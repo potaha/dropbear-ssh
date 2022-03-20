@@ -24,4 +24,11 @@ echo -e "\033[31;4m 1 kisi baglanabilir sadece\033[0m"
 echo ""
 echo ""
 echo -e "\033[33;4m1 Sistem yeniden baslatiliyor baglantiniz kesilecek.\033[0m"
+
+echo "############################################"
+ip_add=$(wget -qO- ifconfig.me)
+echo -e "\033[31;4m##  İp Adresiniz: $ip_add:442\033[0m"
+echo "############################################"
+echo ""
+
 sleep 0.9 ; reboot
