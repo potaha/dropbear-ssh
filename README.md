@@ -13,4 +13,4 @@ Konsola yukarıdaki kodu direk yapıştırın ve bitmesini bekleyiniz.
 kurulum bu kadardır
 
 
-![png](Screenshot_16.png)
+![png](Screenshot_17.png)
