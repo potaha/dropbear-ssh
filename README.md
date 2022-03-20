@@ -10,6 +10,8 @@ işletim sistemi: debian 8, Debain 9, Ubuntu 16
 
 Konsola yukarıdaki kodu direk yapıştırın ve bitmesini bekleyiniz.
 
+Kurulum Süresi: max 1 Dakika
+
 kurulum bu kadardır
 
 
