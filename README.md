@@ -16,3 +16,4 @@ kurulum bu kadardır
 
 
 ![png](Screenshot_17.png)
+![png](Screenshot_18.png)
