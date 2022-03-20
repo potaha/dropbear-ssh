@@ -11,3 +11,4 @@ işletim sistemi: debian 8, Debain 9, Ubuntu 16
 Konsola yukarıdaki kodu direk yapıştırın ve bitmesini bekleyiniz.
 
 kurulum bu kadardır
+![png](Screenshot_15.png)
