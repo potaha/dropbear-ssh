@@ -16,6 +16,7 @@ sed -i 's/#PermitRootLogin no/PermitRootLogin yes/g' /etc/ssh/sshd_config
 sed -i 's/PasswordAuthentication no/PasswordAuthentication yes/g' /etc/ssh/sshd_config
 service dropbear start
 service sshd restart
+clear && printf '\e[3J'
 echo ""
 echo ""
 echo -e "\033[31;4mDropBear Kuruldu\033[0m"
@@ -28,6 +29,8 @@ echo -e "\033[33;4m1 Sistem yeniden baslatiliyor baglantiniz kesilecek.\033[0m"
 echo "############################################"
 ip_add=$(wget -qO- ifconfig.me)
 echo -e "\033[31;4m##  İp Adresiniz: $ip_add:442\033[0m"
+echo -e "\033[31;4m##  Username: root\033[0m"
+echo -e "\033[31;4m##  PassWord: Putty Baglantı Sifreniz..\033[0m"
 echo "############################################"
 echo ""
 
